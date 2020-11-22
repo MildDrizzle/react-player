@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+netlify
+/.netlify
+
 # testing
 /coverage
 
